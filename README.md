@@ -1,4 +1,5 @@
 # Project Description 
+*The pdf report can be viewed at ![food_insecurity_report-compressed.pdf](food_insecurity_report-compressed.pdf)
 
 ## Food Insecurity in the United States
 
